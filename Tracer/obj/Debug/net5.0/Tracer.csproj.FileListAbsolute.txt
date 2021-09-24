@@ -1,0 +1,12 @@
+C:\Users\misha\RiderProjects\mpp_Tracer2\Tracer\bin\Debug\net5.0\Tracer.deps.json
+C:\Users\misha\RiderProjects\mpp_Tracer2\Tracer\bin\Debug\net5.0\Tracer.dll
+C:\Users\misha\RiderProjects\mpp_Tracer2\Tracer\bin\Debug\net5.0\ref\Tracer.dll
+C:\Users\misha\RiderProjects\mpp_Tracer2\Tracer\bin\Debug\net5.0\Tracer.pdb
+C:\Users\misha\RiderProjects\mpp_Tracer2\Tracer\obj\Debug\net5.0\Tracer.csproj.AssemblyReference.cache
+C:\Users\misha\RiderProjects\mpp_Tracer2\Tracer\obj\Debug\net5.0\Tracer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misha\RiderProjects\mpp_Tracer2\Tracer\obj\Debug\net5.0\Tracer.AssemblyInfoInputs.cache
+C:\Users\misha\RiderProjects\mpp_Tracer2\Tracer\obj\Debug\net5.0\Tracer.AssemblyInfo.cs
+C:\Users\misha\RiderProjects\mpp_Tracer2\Tracer\obj\Debug\net5.0\Tracer.csproj.CoreCompileInputs.cache
+C:\Users\misha\RiderProjects\mpp_Tracer2\Tracer\obj\Debug\net5.0\Tracer.dll
+C:\Users\misha\RiderProjects\mpp_Tracer2\Tracer\obj\Debug\net5.0\ref\Tracer.dll
+C:\Users\misha\RiderProjects\mpp_Tracer2\Tracer\obj\Debug\net5.0\Tracer.pdb
